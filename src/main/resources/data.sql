@@ -1,0 +1,1 @@
+insert into PLAYER values ('5','abc','def');
